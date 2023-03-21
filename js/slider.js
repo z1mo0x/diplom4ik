@@ -1,7 +1,7 @@
 var slideIndex = 1;
 var timer = null;
 var animation = null;
-var delay = 5000;
+var delay = 10000;
 const prev = document.querySelector('.prev');
 const next = document.querySelector('.next');
 showSlides(slideIndex);
