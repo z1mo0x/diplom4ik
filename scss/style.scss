@@ -8,6 +8,11 @@
     font-family: inter;
 }
 
+html,
+body {
+    scroll-behavior: smooth;
+}
+
 body {
     background: url(../img/bg.jpg) center / contain;
     height: 300vh;
